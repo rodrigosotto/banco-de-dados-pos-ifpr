@@ -1,0 +1,19 @@
+{
+    "pais": {
+        "nome": "Chile",
+        "capital": "Santiago",
+        "area": {
+            "total": "7560903"
+        },
+        "populacao": {
+            "estimada": "18549457",
+            "densidade": "24"
+        },
+        "pib": {
+            "total": "31759",
+            "per_capita": "15951"
+        },
+        "tld": "cl",
+        "moeda": "pesos"
+    }
+}
